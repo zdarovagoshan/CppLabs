@@ -1,0 +1,7 @@
+﻿  romb.cpp
+f:\3 семак\лаба2ооп\consoleapplication23\romb.cpp(48): warning C4244: return: преобразование "LONG" в "float", возможна потеря данных
+f:\3 семак\лаба2ооп\consoleapplication23\romb.cpp(61): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+f:\3 семак\лаба2ооп\consoleapplication23\romb.cpp(98): warning C4172: возвращение адреса локальной или временной переменной : a
+f:\3 семак\лаба2ооп\consoleapplication23\romb.cpp(109): warning C4172: возвращение адреса локальной или временной переменной : a
+  ConsoleApplication23.vcxproj -> F:\3 семак\Лаба2ООП\Debug\ConsoleApplication23.exe
+  ConsoleApplication23.vcxproj -> F:\3 семак\Лаба2ООП\Debug\ConsoleApplication23.pdb (Full PDB)
