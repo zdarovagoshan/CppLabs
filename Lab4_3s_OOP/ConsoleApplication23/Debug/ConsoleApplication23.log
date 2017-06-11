@@ -1,0 +1,7 @@
+﻿  romb.cpp
+g:\3 семак\лаба4ооп\consoleapplication23\romb.cpp(51): warning C4244: 'return': conversion from 'LONG' to 'float', possible loss of data
+g:\3 семак\лаба4ооп\consoleapplication23\romb.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  ConsoleApplication23.vcxproj -> G:\3 семак\Лаба4ООП\Debug\ConsoleApplication23.exe
+  ConsoleApplication23.vcxproj -> G:\3 семак\Лаба4ООП\Debug\ConsoleApplication23.pdb (Full PDB)
