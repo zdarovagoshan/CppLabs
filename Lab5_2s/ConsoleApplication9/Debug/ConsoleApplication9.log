@@ -1,0 +1,10 @@
+﻿Сборка начата 27.05.2016 11:18:56.
+     1>Проект "J:\Лаба 5\ConsoleApplication9\ConsoleApplication9.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         ConsoleApplication9.vcxproj -> J:\Лаба 5\Debug\Лаба 5.exe
+     1>Сборка проекта "J:\Лаба 5\ConsoleApplication9\ConsoleApplication9.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.17
